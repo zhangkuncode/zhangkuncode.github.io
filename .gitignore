@@ -1,0 +1,13 @@
+.bundle
+.sass-cache
+Gemfile.lock
+_site
+*.gem
+
+*.swp
+
+draft
+# until now I don't know how it work
+CODE_OF_CONDUCT.md
+History.markdown
+minima.gemspec
