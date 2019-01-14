@@ -6,6 +6,6 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
-list_title: WElcome. Just free thought in daily life.
+list_title: WElcome.
 ---
 
