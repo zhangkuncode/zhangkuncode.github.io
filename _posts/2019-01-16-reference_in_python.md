@@ -4,7 +4,7 @@ tags: python
 title: python中的变量引用
 ---
 
-~~~
+~~~python
 import numpy as np
 
 a = np.array([1,2,3])
@@ -24,7 +24,7 @@ output :
 ~~~
 
 但是我在使用np.array.reshape()却遇到了问题
-~~~
+~~~python
 import numpy as np
 
 aa = np.array([[1,2,3],[1,2,3],[1,2,3]])
