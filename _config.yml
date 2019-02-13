@@ -5,11 +5,11 @@ description: > # this means to ignore newlines until "twitter_username:"
     Blog
 
 # social links
-#github_username: zhangkuncode
+# github_username: zhangkuncode
 rss: rss
 # twitter_username:
 # dribbble_username: jekyll
-#facebook_username: jekyll
+# facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jekyll
 # linkedin_username: jekyll
@@ -28,7 +28,7 @@ rss: rss
 # - username: jekyll2
 #   instance: example.com
 
-show_excerpts: false # set to true to show excerpts on the homepage
+show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -37,8 +37,8 @@ minima:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.md
+header_pages:
+ - about.md
 
 # Build settings
 theme: minima
