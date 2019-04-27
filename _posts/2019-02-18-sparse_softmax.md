@@ -1,6 +1,6 @@
 ---
 layout: post
-tags:tensorflow
+tags: tensorflow
 title: sparse_softmax_cross_entropy_with_logits()函数
 ---
 
