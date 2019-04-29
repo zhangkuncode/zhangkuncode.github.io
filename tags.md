@@ -12,11 +12,11 @@ tags list
   {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
   <li>
       <a href="#{{ this_word | replace:' ','-' }}-ref" data-toggle="tab">
-        {{ this_word }} ({{ site.tags[this_word].size }})</span>
+        {{ this_word }} ({{ site.tags[this_word].size }})
      </a>
   </li>
 {% endunless %}{% endfor %}
-<br />
+<br/>
 
 <!-- Tab panes -->
 {% assign last_item = site.tags.size | minus: 1 %} 
