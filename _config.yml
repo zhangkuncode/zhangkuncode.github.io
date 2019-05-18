@@ -1,8 +1,8 @@
-title: XX
+title: XXX
 author: Kun Zhang
 email: buwenkun@hotmail.com
 description: > # this means to ignore newlines until "twitter_username:"
-    © 2019 Kun Zhang
+    © 2018 ~ 2019 
 
 # social links
 # github_username: zhangkuncode
@@ -28,6 +28,7 @@ rss: rss
 # - username: jekyll2
 #   instance: example.com
 
+# 显示摘录
 show_excerpts: false # set to true to show excerpts on the homepage
 
 # Minima date format
